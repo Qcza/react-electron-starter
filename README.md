@@ -1,5 +1,9 @@
-# README
+# React-Redux-Electron
+[![dependencies Status](https://david-dm.org/Qcza/react-electron-starter/status.svg)](https://david-dm.org/Qcza/react-electron-starter)
+[![devDependencies Status](https://david-dm.org/Qcza/react-electron-starter/dev-status.svg)](https://david-dm.org/Qcza/react-electron-starter?type=dev)
 
+- React w/ Redux https://facebook.github.io/react/ , http://reduxjs.org/
+- Electron https://electron.atom.io/
 
 ##### Development w/ watcher
 ``` 
